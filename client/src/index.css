@@ -152,7 +152,7 @@ a {
 }
 
 .my_github {
-  color: white;
+  color: var(--ghost-white-clr);
   text-decoration: none;
   font-family: var(--secondary-font);
   font-weight: 200;
