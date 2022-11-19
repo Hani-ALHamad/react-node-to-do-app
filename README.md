@@ -1,6 +1,6 @@
 # To Do App (reactjs & nodejs)   
 
-# • Link: https://hani-to-do-app.herokuapp.com/   
+# • Link: https://hani-to-do-app.up.railway.app/   
 
 A to-do app that stores tasks in a database for each user, with some advanced features and mobile friendly design.   
 
