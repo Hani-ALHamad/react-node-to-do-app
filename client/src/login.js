@@ -49,7 +49,7 @@ const Login = () => {
         }
       </form>
       <div className='login_sign_in'>Don't have an account?</div>
-      <div className='login_sign_in'>Sign up a new account on my <a target="_blank" rel='noreferrer' href="https://hani-user-system.herokuapp.com/signup">User System app</a></div>
+      <div className='login_sign_in'>Sign up a new account on my <a target="_blank" rel='noreferrer' href="https://hani-user-system.up.railway.app/signup">User System app</a></div>
       <a
         className="my_github"
         href="https://github.com/Hani-ALHamad"
