@@ -21,7 +21,7 @@ A to-do app that stores tasks in a database for each user, with some advanced fe
 *• Backend:*   
 - Nodejs.   
 - Npm packages: express, mongodb, mongoose, bcryptjs, cookie-parser, jsonwebtoken.   
-- Npm packages i used for development only:  env-cmd, nodemon.   
+- Npm packages i used for development only:  env-cmd, nodemon.    
    
 --- 
 
